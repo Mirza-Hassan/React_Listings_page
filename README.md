@@ -6,9 +6,9 @@ A listing is a description of real estate that can be rented or bought. It conta
 
 ### TECH STACK
 
-Frontend: React.js, Typescript 
+- Frontend: React.js, Typescript 
 
-Backend: C#
+- Backend: C#
 
 ### INSTALLATION
 
