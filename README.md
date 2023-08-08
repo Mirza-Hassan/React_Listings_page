@@ -1,14 +1,8 @@
-### LISTINGS PAGE
+### LISTINGS
 
 ##  Description
 
-Seller role: Add, update, or remove products.
-Buyer role: Deposit 5, 10, 20, 50, 100 cent coins and make purchases.
-Coin validation and change calculation included.
-Endpoints for inventory and available coins.
-Role-based access control implemented.
-Tech Stack:
-Frontend: React.js, Bootstrap Backend: Express, Node.js, third-party packages (JWT)
+A listing is the description of a real estate that can be rented or bought. It contains information such as price and availability. We also display real estates characteristics, such as its category or size.
 
 ### TECH STACK
 
