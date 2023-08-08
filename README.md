@@ -8,6 +8,37 @@ A listing is the description of a real estate that can be rented or bought. It c
 
 Frontend: React.js, Typescript Backend: C#
 
+### INSTALLATION
+
+## Frontend
+1. Navigate to the typescript-react/ directory using your terminal.
+
+2. Run the following command to install the required dependencies:
+```
+npm install
+```
+
+3. Once the installation is complete, start the development server with:
+```
+npm run dev
+```
+
+## Backend
+1. Open your terminal and navigate to the MyApiProject/ directory.
+
+2. Build the backend project using the following command:
+```
+dotnet build
+```
+
+3. After a successful build, launch the backend application with:
+```
+dotnet run
+```
+
+
+
+
 ### SCREENSHOTS:
 
 Main Listings Page
