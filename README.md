@@ -2,11 +2,13 @@
 
 ##  Description
 
-A listing is the description of a real estate that can be rented or bought. It contains information such as price and availability. We also display real estates characteristics, such as its category or size.
+A listing is a description of real estate that can be rented or bought. It contains information such as price and availability. We also display real estate characteristics, such as its category or size.
 
 ### TECH STACK
 
-Frontend: React.js, Typescript Backend: C#
+Frontend: React.js, Typescript 
+
+Backend: C#
 
 ### INSTALLATION
 
@@ -35,9 +37,6 @@ dotnet build
 ```
 dotnet run
 ```
-
-
-
 
 ### SCREENSHOTS:
 
