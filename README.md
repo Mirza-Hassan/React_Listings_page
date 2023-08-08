@@ -11,7 +11,7 @@ Frontend: React.js, Typescript Backend: C#
 ### INSTALLATION
 
 ## Frontend
-1. Navigate to the 'typescript-react/' directory using your terminal.
+1. Navigate to the `typescript-react/` directory using your terminal.
 
 2. Run the following command to install the required dependencies:
 ```
@@ -24,7 +24,7 @@ npm run dev
 ```
 
 ## Backend
-1. Open your terminal and navigate to the MyApiProject/ directory.
+1. Open your terminal and navigate to the `MyApiProject/` directory.
 
 2. Build the backend project using the following command:
 ```
